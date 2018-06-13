@@ -17,7 +17,7 @@ GitHub 的 issue 功能，对个人而言，就如同 TODO list ( from zhihu:htt
 ## fork
 叉到我的餐盘里，可以任意修改
 ## markdown 标记语言
-用“#”分级
+用“#”分级  
 换行：两个以上的空格
 ## git pull 
 更新本地与云端一致
