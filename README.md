@@ -14,6 +14,13 @@ GitHub 的 issue 功能，对个人而言，就如同 TODO list ( from zhihu:htt
 
 ## respository
 我的笔记本们
+### 建立文件夹  
+way1:  
+点击New files按钮，然后输入含有slash字符（“/”）的文件名即可。也就是建立一个含有路径（目录）的文件，即会自动产生新文件夹。  
+way2:  
+点击Upload files按钮，然后直接把本地的文件夹（内含文件）
+
+
 ## fork
 叉到我的餐盘里，可以任意修改
 ## markdown 标记语言
