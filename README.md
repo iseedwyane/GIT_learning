@@ -1,4 +1,4 @@
-# GIT_learning
+# git_learning
 ## readme：
 ## gitignore
 gitignore - Specifies intentionally untracked files to ignore       
